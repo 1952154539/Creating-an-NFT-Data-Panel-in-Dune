@@ -4,7 +4,7 @@ Dune Analytics 仪表板，用于分析 Azuki NFT 代币的链上数据。
 
 **Azuki NFT 合约地址**: `0xED5AF388653567Af2F388E6224dC7C4b3241C544`
 
-**Dune Dashboard**: [Azuki NFT Data Panel](https://dune.com/) *(替换为你的仪表板链接)*
+**Dune Dashboard**: [Azuki NFT Data Panel](https://dune.com/balana/azuki-nft-data-panel)
 
 ---
 
